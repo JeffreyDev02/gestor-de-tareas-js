@@ -1,0 +1,11 @@
+.tarea-vencida {
+    color: red;
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+    }
+
+.tarea-vencida .badge {
+    color: red !important;
+    text-decoration: line-through !important;
+    text-decoration-thickness: 2px !important
+    }
